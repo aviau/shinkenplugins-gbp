@@ -1,6 +1,8 @@
 Source: shinkenplugins
 Maintainer: Alexandre Viau <alexandre@alexandreviau.net>
 Homepage: https://github.com/savoirfairelinux/monitoring-tools
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/shinkenplugins.git
+Vcs-Git: git://anonscm.debian.org/collab-maint/shinkenplugins.git
 Section: python
 X-Python-Version: >= 2.7
 Priority: optional
